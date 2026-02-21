@@ -1,3 +1,7 @@
 version 1.5:
 changeLog:
-added: Testing
+added: Bartling
+added: Camera mod
+fixed: some QOL bugs
+changed: shop
+Nerfed: GoldenBart
